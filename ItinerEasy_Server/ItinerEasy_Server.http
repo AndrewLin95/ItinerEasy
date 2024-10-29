@@ -1,0 +1,6 @@
+@ItinerEasy_Server_HostAddress = http://localhost:5211
+
+GET {{ItinerEasy_Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
